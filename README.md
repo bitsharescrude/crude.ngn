@@ -5,6 +5,7 @@ This asset aims to bridge the gap between the NAIRA and the bitshares ecosystem
 The bitshares ecosystem is still limited to only major currencies like USD, EUR, CNY and BTC, there is currently no direct way to trade the NGN with the bitshares core token except by conversion, a new currency pegged to the value of the NGN will breach this gap and create a new economy on the bitshares DEX wallet.
 # Flow Plan
 * The account owner vnc7 will create another account called "Xbits"
+* vnc7 will create XBITS brand asset token
 * vnc7 will then create Asset called XBITS.NGN 
 (N/B the account and symbol name is subject to change, if it is already taken)
 * vnc7 will issue a predetermined (capped at 50,000BTS=>NGN) amount of XBITS.NGN, to Xbits.
@@ -26,5 +27,7 @@ XBITS.NGN will be a User Issued Asset (U.I.A), [N/B there will also be XBITS.NGN
 HTLC, Private memo and merchant
 # Asset class
 Utility token
+# KYC
+The asset is only meant to offer a service, thus there will be no KYC however users are subject to the Financial laws of Nigeria governing the use of the token for business.
 # Market Restrictions
 Due to the current whitelisting rules on Bitshares, Xbits.tokens may only be tradeable with BTS (N/B other tradeable assets may be owned by fraudsters, trade with caution)
