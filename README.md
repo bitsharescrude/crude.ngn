@@ -24,5 +24,7 @@ XBITS.NGN will be a User Issued Asset (U.I.A), [N/B there will also be XBITS.NGN
 * Max Supply 10,000,000,000,000.00 (ten trillion to 2d.p)
 # Protocol
 HTLC, Private memo and merchant
+# Asset class
+Utility token
 # Market Restrictions
 Due to the current whitelisting rules on Bitshares, Xbits.tokens may only be tradeable with BTS (N/B other tradeable assets may be owned by fraudsters, trade with caution)
