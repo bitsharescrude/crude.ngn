@@ -11,7 +11,7 @@ The bitshares ecosystem is still limited to only major currencies like USD, EUR,
 * vnc7 will issue a predetermined (capped at 50,000BTS=>NGN) amount of XBITS.NGN, to Xbits.
 * Xbits will then perform the cash transactions for other users including vnc7 (N/B all funds issued must get to the Xbits account before they can be spent in order to ensure accountability)
 * Xbits will not be involved in market making.
-* Xbits will operate with like an office (N/B from 8am-6pm MON-FRI the user may be inactive due to statutory engagements; all issues for the day will be closed by 11:59pm to avoid transaction clog)  
+* Xbits will operate with like a teller.
 * Users can then trade XBITS.NGN for other tokens or transfer them to other users who are willing to accept the token for their services.
 # Target users
 this token is meant for all bitshares users who wish to trade or transact with XBITS.NGN, but especially meant for the Nigerian bitshares community who can also withdraw the token as physical cash.
@@ -19,6 +19,7 @@ this token is meant for all bitshares users who wish to trade or transact with X
 XBITS.NGN will be a User Issued Asset (U.I.A), [N/B there will also be XBITS.NGN as smartcoin in the future]
 # U.I.A Parameters
 * Holders must be whitelisted (flag)
+* Disable confidential transactions (flag)
 * Issuer must approve all transfer (flag)
 * enable market fees (enabled)
 * Issuer may transfer asset back to himself (disabled)
@@ -26,8 +27,7 @@ XBITS.NGN will be a User Issued Asset (U.I.A), [N/B there will also be XBITS.NGN
 # Protocol
 HTLC, Private memo and merchant
 # Asset class
-Utility token
-# KYC
-The asset is only meant to offer a service, thus there will be no KYC however users are subject to the Financial laws of Nigeria governing the use of the token for business.
+UIA Utility token
 # Market Restrictions
 Due to the current whitelisting rules on Bitshares, Xbits.tokens may only be tradeable with BTS (N/B other tradeable assets may be owned by fraudsters, trade with caution)
+
