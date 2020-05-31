@@ -15,7 +15,7 @@ The bitshares ecosystem is still limited to only major currencies like USD, EUR,
 # Target users
 this token is meant for all bitshares users who wish to trade or transact with XBITS.NGN, but especially meant for the Nigerian bitshares community who can also withdraw the token as physical cash.
 # XBITS.NGN
-XBITS.NGN will be a User Issued Asset (U.I.A), [N/B there will also be XBTS.NGN as smartcoin in the future]
+XBITS.NGN will be a User Issued Asset (U.I.A), [N/B there will also be XBITS.NGN as smartcoin in the future]
 # U.I.A Parameters
 * Holders must be whitelisted (flag)
 * Issuer must approve all transfer (flag)
