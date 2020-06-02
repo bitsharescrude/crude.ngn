@@ -13,7 +13,7 @@ The bitshares ecosystem is still limited to only major currencies like USD, EUR,
 * Xbits.vnc7 will operate with like a teller.
 * Users can then trade CRUDE.NGN for other tokens or transfer them to other users who are willing to accept the token for their services.
 # Target users
-this token is meant for all bitshares users who wish to trade or transact with XBITS.NGN, but especially meant for the Nigerian bitshares community who can also withdraw the token as physical cash.
+this token is meant for all bitshares users who wish to trade or transact with CRUDE.NGN, but especially meant for the Nigerian bitshares community who can also withdraw the token as physical cash.
 # CRUDE.NGN
 CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN as smartcoin in the future]
 # U.I.A Parameters
