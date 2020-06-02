@@ -29,4 +29,8 @@ HTLC, Private memo and merchant
 UIA Utility token
 # Market Restrictions
 Due to the current whitelisting rules on Bitshares, crude.tokens may only be tradeable with BTS (N/B other tradeable assets may be owned by fraudsters, trade with caution)
-
+# Asset Economy
+The owner understands that the value of his asset is dependent on the value he can give (assuming there's no demand the asset value is zero) with this understanding initial users who buy the CRUDE.NGN for trading may face devaluation in order for the owner to create value, BTS markers equal to the total equivalent amount of the asset has to be available for liquidity. The marker starting price, is the price of the real world asset, the token represents, in this case Naira).  If for any reason there's price manipulation aka dump users who panic sell will lose the equivalent value of their token in BTS. This method will encourage holding rather than selling the tokens.
+The user must have at least the equivalent amount of Naira supply in his cash wallet should local users decide to cash out. (excess supply will be reflected in the xbits.vnc7 account, the excess supply is the amount the owner doesn't have as raw cash, the lesser the supply the richer the owner).
+N/B Token true value is determined by the least BTS buy order that covers total supply, but the token will always be assumed, to be  1:1 for NGN.
+N/B the excess supply will never be used for trading only the owner account can trade.
