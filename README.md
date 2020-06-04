@@ -26,7 +26,7 @@ CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN
 # Protocol
 HTLC, Private memo and merchant
 # Asset class
-UIA Utility token
+UIA Utility token, Semi-Custodial
 # Account Authority
 vnc7
 # Market Restrictions
@@ -42,4 +42,4 @@ The owner knows the price of cryptocurrencies fluctuate regularly, usually marke
 The owner recognizes the need to issue the naira to himself, this is because he is limited but he also doesn't want to commit fraud by issuing above the amount he can redeem, so how can this problem be solved, simple he sells some bitshares or other cryptocurrencies available for the naira by sending them to XBITS.vnc7 just like any customer would, this is like an insurance net for his customers or users, the value of the amount sent will be thesame as the 3D MA of the asset's amount in naira to avoid foul play and it will be capped at 50,000 CRUDE.NGN... this means the owner has daily withdrawal limit of 50,000 CRUDE.NGN (all cryptocurrencies trade with owner will follow the 3D MA
 of the asset's price)
 -traders can still buy more than 50k CRUDE.NGN even up to any amount, and the funds will be stored in the xbits.vnc7 wallet. The funds will never be used to trade, or withdrawn to owner account for any reason whatsoever, it will also never leave the xbits.vnc7 account to any other wallet except the equivalent amount of naira/cryptocurrency is paid, always check the excess supply https://BTS.ai/xbits.vnc7 to avoid fraud. 
-- if any of these rules are broken it is fraud and the owner is liable.
+- if any of these rules are broken it is fraud and the owner is liable, however users should never risk more than what they can afford to lose.
