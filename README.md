@@ -26,7 +26,7 @@ CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN
 * Holders must be whitelisted (flag)
 * Disable confidential transactions (flag)
 * Issuer must approve all transfer (flag)
-* enable market fees (enabled)
+* enable market fees (enabled
 * Issuer may transfer asset back to himself (disabled)
 * Max Supply 10,000,000,000,000.00 (ten trillion to 2d.p)
 # Protocol
