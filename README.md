@@ -21,7 +21,7 @@ this token is meant for all bitshares users who wish to trade or transact with C
 # CRUDE.NGN
 CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN as smartcoin in the future]
 This means that
-- user can issue assets to himself
+- owner can issue assets to himself
 - the xbits.vnc7 is centralised
 # U.I.A Parameters
 * Holders must be whitelisted (flag)
