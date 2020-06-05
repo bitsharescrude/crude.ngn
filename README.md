@@ -20,7 +20,6 @@ The bitshares ecosystem is still limited to only major currencies like USD, EUR,
 this token is meant for all bitshares users who wish to trade or transact with CRUDE.NGN, but especially meant for the Nigerian bitshares community who can also withdraw the token as physical cash.
 # CRUDE.NGN
 CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN as smartcoin in the future]
-This means that
 - owner can issue assets to himself
 - the xbits.vnc7 is centralised
 # U.I.A Parameters
@@ -33,7 +32,7 @@ This means that
 # Protocol
 HTLC, Private memo and merchant
 # Asset class
-UIA Utility token, Semi-Custodial
+UIA Utility token, Semi-Custodial, Hybrid cryptocurrency
 # Account Authority
 vnc7
 # Market Restrictions
