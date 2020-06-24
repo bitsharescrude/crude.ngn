@@ -28,9 +28,6 @@ vnc7
 # HOW IT WORKS
 The Asset has been designed to be as trustless as humanly possible by the issuer (following the guidelines stipulated by bitshares.org), in other to reduce the risks associated with holding virtual currencies. The issuer or (designated outlets) will operate like a blockchain-teller helping local crypto-traders/users with USDT liquidity for their naira at lower costs. These local users will bid for CRUDE.NGN with their USDT/BTS. As long as the owner can back the supply of the CRUDE.NGN with BTS/USDT he will not run out of service.
 The owner is the first issuer (the first local teller) the naira he issues is equal to the money he wants to use for trading BTS, this money is assumed to be lost by the owner.
-  
-# Flaw/Weakness
-The only flaw to this asset is its centrality, the more outlets (LOCAL CRYPTO USDT TRADERS) that use it the more safer it becomes.
 
 # THEORY
 It is believed by speculators (Bears and Bulls) that if left unchecked by the issuer, all cryptocurrencies will always certainly tend to zero. This means that at a certain point in time the value of every virtual currency or asset ever designed was/is zero. The owner(first user) recognises this asset equality, In order words every cryptocurrency has its equivalent value to another based on certain conditions. If those conditons are met, then two virtual currencies can have thesame value (Asset Market decay).
@@ -79,11 +76,11 @@ The CRUDE.NGN is only as secure as the next user who can back its total supply w
 - CRUDE.NGN BURN: This is the transfer of CRUDE.NGN to the owner's wallet, for a service to be rendered, CRUDE.NGN is usually lost by this pattern as the User converts for physical naira, or, USDT in the market (Its vise versa) fees may apply for service rendered, the longer the burn time the more the CRUDE.NGN supplied or issued.
 - Multi-Sig: This is the act of securing your bitshares wallet by creating multiple account owner permissions on one account.
 Such wallet may either be owned by the owner or by a group of people.
-# DISADVANTAGES
+# SUPPLY
 - The supply of CRUDE.NGN is heavily dependent on the number of local users holding it or BTS users willing to back it.
 - The supply of CRUDE.NGN is an indication of the level of wealth the owner can lose to BTS and USDT at anytime, the larger the supply the larger the market.
 - Liquidity is dependent on user adoption.
-- Large holders can only buy with BTS  (They have to either buy BTS with the owner physically or Buy CRUDE.NGN on the DEX with BTS)
+- Big investors can only buy after KYC is done for supply above 1million naira
 - Large foreign holders can also buy the Naira via asset exchange between CRUDE.NGN and an equivalent amount of BTS. This is done by sending the BTS to the owners's wallet. The owner then Issues the equivalent amount of CRUDE.NGN and USDT in the ratio 50:50 to the the large holder,the 50% USDT is used to back the newly issued CRUDE.NGN. The large holder must be ready to lose the BTS forever (forced CRUDE.NGN Issue). It can only be recovered on the BTS market or via USDT exchange on the other side of the market.
 # ASSET EXCHANGE
 In order to bring in more naira supply new players must be ready to lose either real naira as cash, or BTS or USDT just like the initial issuer, if its real Naira, the new player has lost his money forever until he can burn the entire supply he has at an outlet. Same applies for USDT and BTS.
