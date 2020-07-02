@@ -35,16 +35,9 @@ It is believed by speculators (Bears and Bulls) that if left unchecked by the is
 (In the future, the owner believes that foreign speculators will always have USDT available to buy up the naira and as long as there is someone willing to back CRUDE.NGN with BTS/NAIRA (CASH), CRUDE.NGN will always exist).
 
 # THE MARKET
-The users aim is to supply liquidity to the BTS market by bidding with his naira for BTS (BTS/CRUDE.NGN). The resulting BTS is used to buy USDT which will be used to buy back the CRUDE.NGN on another market CRUDE.NGN/USDT. This creates two markets, a speculative one and a stable one. The stable market will always be assumed to be closed by the end of the day and the available dollar must always be more or equal to the total supply of the CRUDE.NGN.
--SPECULATIVE MARKET	                                   -STABLE MARKET
-- Owner sells crude.ngn for BTS	                  *Excess BTS is converted to USDT
-- Owner must have thesame amount of NGN to 
-crude.ngn in circulation	                 *CRUDE.NGN is always equal to USDT
-- Owner can sell bts for real ngn                	*Owner can buy crude.ngn for USDT
-- Owner can redeem cash for CRUDE.NGN	      * Owner can redeem crude.ngn for USDT
-- Owner loses more Crude.ngn for BTS	       *Owner gains more crude.ngn for USDT
-- Owner gains NGN when BTS gains	                *Markets are deemed closed after business hours
-- Owner loses NGN when BTS Falls 
+The users aim is to supply liquidity to the BTS market by bidding with his naira for BTS (BTS/CRUDE.NGN). The resulting BTS is used to buy USDT which will be used to buy back the CRUDE.NGN on another market CRUDE.NGN/USDT. This creates two markets, a speculative one and a stable one. The stable market will always be assumed to be closed by the end of the day.
+*Markets are deemed closed after business hours
+
 
 # THE TECHNOLOGY
 Bitshares has for a very long time been a pioneer of decentralised exchanges, bridges and gateways, starting from Openledger down to Xbts. Its matching engines allow users (or market markers) to speculate on the price of their assets. So far Bitshares has grown in development to be one of the most outstanding trustless exchange system ever designed in the world of cryptocurrencies, it has both merchant, POS/Teller, P2P and other forms of electronic data transfer on the blockchain, with high tech security features and a decentralised own your data policy "Brain-Key".
