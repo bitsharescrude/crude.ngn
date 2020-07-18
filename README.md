@@ -84,8 +84,6 @@ Such wallet may either be owned by the owner or by a group of people.
 - The supply of CRUDE.NGN is an indication of the level of wealth the owner can lose to BTS and USDT at anytime, the larger the supply the larger the market.
 - Liquidity is dependent on user adoption.
 - Big investors are limited to transactions of up to 1 million naira only, *anything above that would require bank supervision due to the Money Laundring act.
-- Large foreign holders can also buy the Naira via asset exchange between CRUDE.NGN and an equivalent amount of BTS. This is done by sending the BTS to the owners's wallet. The owner then Issues the equivalent amount of CRUDE.NGN and USDT in the ratio 50:50 to the the large holder,the 50% USDT is used to back the newly issued CRUDE.NGN. The large holder must be ready to lose the BTS forever (forced CRUDE.NGN Issue). It can only be recovered on the BTS market or via USDT exchange on the other side of the market.
+- Large foreign holders can also buy the Naira via asset exchange between CRUDE.NGN and an equivalent amount of BTS. This is done by sending the BTS to the owners's wallet. The owner then Issues the equivalent amount of CRUDE.NGN.
 # ASSET EXCHANGE
-In order to bring in more naira supply new players must be ready to lose either real naira as cash, or BTS or USDT just like the initial issuer, if its real Naira, the new player has lost his money forever until he can burn the entire supply he has at an outlet. Same applies for USDT and BTS.
-- For new USDT players, they lose 100% of their asset for the equivalent amount of CRUDE.NGN.
-- For new BTS players, they lose 100% of their asset for the equivalent amount of CRUDE.NGN and USDT in the ratio 50:50.
+In order to bring in more naira supply new players must be ready to spend either real naira as cash, or BTS or USDT just like the initial issuer, if its real Naira, the new player gets the equivalent amount of CRUDENGN. Same applies for USDT and BTS.
