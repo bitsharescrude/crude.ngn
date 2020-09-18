@@ -87,5 +87,8 @@ Such wallet may either be owned by the owner or by a group of people.
 - Large foreign holders can also buy the Naira via asset exchange between CRUDE.NGN and an equivalent amount of BTS. This is done by sending the BTS to the owners's wallet. The owner then Issues the equivalent amount of CRUDE.NGN.
 # ASSET EXCHANGE
 In order to bring in more naira supply new players must be ready to spend either real naira as cash, or BTS or USDT just like the initial issuer, if its real Naira, the new player gets the equivalent amount of CRUDENGN. Same applies for USDT and BTS.
+Asset exchange can be done easily with the barter proposal feature on the bitshares DEX...
 # FUNDING INTERVAL
 This the time at which prices are adjusted and market markers are set on the market. Funding Intervals are at least once every 24hours, but may change depending on the volatility of the crypto-assets and trading bais.
+# FUNDING TIME
+This is the time it takes to get physical cash ready for a CNGN burn. This happens when a user is in need of large amount of money, which sometimes may not be physically available. Funding time should not exceed 24hrs except there's an act of God.
