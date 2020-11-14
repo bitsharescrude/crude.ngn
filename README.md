@@ -8,7 +8,7 @@ This asset is meant to reduce the risks and difficulties associated with holding
 The Asset has been designed to be as trustless as humanly possible by the issuer (following the guidelines stipulated by bitshares.org).
 - SPECIFICATIONS
 
-CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN as smartcoin in the future backed with BTS].
+CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN as smartcoin in the future backed with CRUDE.NGN].
 
 # U.I.A Parameters
 - owner can issue assets to himself
