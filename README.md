@@ -24,7 +24,7 @@ HTLC, Private memo and merchant
 # Asset class
 UIA Utility token, Semi-Custodial, Hybrid cryptocurrency
 # Account Authority
-vnc7
+vnc7, fbn3113104450
 # Market Restrictions
 (N/B other tradeable assets may be owned by fraudsters trade with caution)
 
@@ -88,7 +88,30 @@ Such wallet may either be owned by the owner or by a group of people.
 # ASSET EXCHANGE
 In order to bring in more naira supply new players must be ready to spend either real naira as cash, or BTS or USDT just like the initial issuer, if its real Naira, the new player gets the equivalent amount of CRUDENGN. Same applies for USDT and BTS.
 Asset exchange can be done easily with the barter proposal feature on the bitshares DEX...
-# FUNDING INTERVAL
-This the time at which prices are adjusted and market markers are set on the market. Funding Intervals are at least once every 24hours, but may change depending on the volatility of the crypto-assets and trading bais.
-# FUNDING TIME
-This is the time it takes to get physical cash ready for a CNGN burn. This happens when a user is in need of large amount of money, which sometimes may not be physically available. Funding time should not exceed 24hrs except there's an act of God.
+# Escrow/Cash Account
+fbn3113104450 is the new escrow wallet especially for bank transfer transactions. The account is clearly visible on the bitshares blockchain and transactions made to the wallet can be tracked. The main function of the wallet is to send and recieve money from bank transfers.
+- HOW TO SEND
+This process assumes you already have CRUDE.NGN and want to withdraw simply send the amount you want to fbn3113104450, with a memo containing your bank account, or send a mail to support@bitsharescrude.i.ng containing the bank details. Your bank account will be written as so... "bank code:account number".
+- HOW TO RECEIVE
+This process assumes you want to make a deposit to the blockchain via bank transfer. Simply send the amount to FBN:3113104450 and add your bitshares wallet name on the note/remark column in your bank transfer app.
+
+The Second function of the wallet is to display the current cash available in that bank account. So if you see 10,000CRUDE.NGN it means that approximately 12500NGN is currently available in cash for withdrawals.
+
+# Banks and their respective Codes
+- ABP : Access Bank PLC
+- ECO: Ecobank PLC
+- FCMB: First City Monument Bank
+- FBP: Fidelity Bank Plc
+- FBN: First Bank of Nigeria Plc
+- GTB: Gauranteed Trust Bank Plc
+- HB: Heritage Bank
+- JB: Jaiz Bank
+- KSB: Keystone Bank Plc
+- POLB: Polaris Bank Plc
+- PROB: Providus Bank Plc
+- IBTC: Stanbic IBTC Bank Plc
+- UBN: Union Bank of Nigeira Plc
+- UBA: United Bank of Africa
+- UB: Unity Bank Plc
+- WB: Wema Bank Plc
+- ZB: Zenith Bank Plc .
