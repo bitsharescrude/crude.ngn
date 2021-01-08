@@ -29,8 +29,8 @@ vnc7, fbn3113104450
 (N/B other tradeable assets may be owned by fraudsters trade with caution)
 
 # HOW IT WORKS
-As a pegged UIA Asset, CRUDE.NGN has three reserve wallets, one for escrow services, which is tied to the naira asset NGNT on Stellar, the second is bitCNY and third one is BUSD.
-The Liquidity for trading is provided by BUSD and bitCNY, while the external reserve wallet allows for more decentralization and ease of withdrawal and deposit.
+As a pegged UIA Asset, CRUDE.NGN has three reserve wallets, one for escrow services, which is tied to the naira asset NGNT on Stellar, the second is bitCNY and third one is USDT.
+The Liquidity for trading is provided by USDT and bitCNY, while the external reserve wallet allows for more decentralization and ease of withdrawal and deposit.
 # Escrow/Reserve Accounts
 <a href = "https://stellar.expert/explorer/public/account/GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY"> GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY</a>
 # Liquidity/Reserve Accounts
