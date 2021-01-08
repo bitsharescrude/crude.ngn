@@ -1,11 +1,7 @@
 # CRUDE.NGN BIT-PAPER
-- Introduction: 
-For long the cryptomarket in Nigeria has suffered from a lack of dollar availabilty which is needed by their foreign counterparts to be able to purchase their crypto assets, due to high regulations against remittance services and counter party risks associated with virtual currencies, this has led to high fee charges and loss of interest in virtual currencies by Nigerians. The Central Bank of Nigeria has also said that virtual currencies are not legal tender in Nigeria and has warned Banks from using virtual curriencies to transact business due to the unregulated nature of the assets.
-Cryptocurrencies are actually data assets that are transferred from person to person for services rendered, the persons involved must have value for the data asset for it to be useful, if the asset loses its value for any reason what so ever, the person holding the asset will deem it worthless and consequently might have lost a considrable amount of money(cash). This is why the Central Bank is against the use of virtual currencies, they represent no real value physically and cannot actually be used for anything else outside their scope. It is therefore necessary for participants to understand this reality before using virtual currencies.
 
-# CRUDE.NGN
-This asset is meant to reduce the risks and difficulties associated with holding cryptocurrencies (virtual currencies) for people in Nigeira who understand virtual currencies and wish to participate in speculating on the value of other crypto-assets, and for Bitshares speculators who want to speculate on the Naira as well as sell Cryptocurrencies for NGN. Its use is as expressly stated and is not meant to be used as a legal tender for any reason whatsoever, however holders of the asset may redeem it for real cash at designated outlets that are willing to accept it. These designated outlets then sell it on the blockchain for BTS, thus keeping the cycle.
-The Asset has been designed to be as trustless as humanly possible by the issuer (following the guidelines stipulated by bitshares.org).
+This asset aims to bridge the gap between the NAIRA and the bitshares ecosystem.
+
 - SPECIFICATIONS
 
 CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN as smartcoin in the future backed with CRUDE.NGN].
