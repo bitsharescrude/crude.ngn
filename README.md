@@ -35,6 +35,8 @@ The Liquidity for trading is provided by BUSD and bitCNY, while the external res
 <a href = "https://stellar.expert/explorer/public/account/GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY"> GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY</a>
 # Liquidity/Reserve Accounts
 <a href = "https://wallet.bitshares.org/#/account/fbn3113104450" > fbn3113104450 </a>
+
+<a href = "https://binance.mintscan.io/account/bnb1mhdym8tmmpkn75su3luf8cs5q2f7cq5cahe6j2" >bnb1mhdym8tmmpkn75su3luf8cs5q2f7cq5cahe6j2</a>
 # Escrow
 fbn3113104450 is the escrow wallet for bitshares users. While GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY is the escrow for external wallets.
 go to <a href = " https://bitsharescrude.i.ng"> BITSHARESCRUDE </a> for more details.
