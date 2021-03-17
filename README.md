@@ -4,7 +4,7 @@ This asset aims to bridge the gap between the NAIRA and the bitshares ecosystem.
 
 - SPECIFICATIONS
 
-CRUDE.NGN will be a User Issued Asset (U.I.A), [N/B there will also be CRUDE.NGN as smartcoin in the future backed with CRUDE.NGN].
+CRUDE.NGN will be a User Issued Asset (U.I.A) Stablecoin backed primarily by bitCNY in the reserve wallet fbn3113104450.
 
 # U.I.A Parameters
 - owner can issue assets to himself
@@ -25,14 +25,9 @@ vnc7, fbn3113104450
 (N/B other tradeable assets may be owned by fraudsters trade with caution)
 
 # HOW IT WORKS
-As a pegged UIA Asset, CRUDE.NGN has three reserve wallets, one for escrow services, which is tied to the naira asset NGNT on Stellar, the second is bitCNY and third one is USDT.
-The Liquidity for trading is provided by USDT and bitCNY, while the external reserve wallet allows for more decentralization and ease of withdrawal and deposit.
+As a pegged UIA Asset, CRUDE.NGN has a reserve wallet, for escrow/trading services, which is tied primarily to bitCNY and other stablecoins on the bitshares DEX.
+The Liquidity for trading is provided by the stablecoins, while the reserve account control is multisiged to allow for more decentrality.
 # Escrow/Reserve Accounts
-<a href = "https://stellar.expert/explorer/public/account/GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY"> GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY</a>
-# Liquidity/Reserve Accounts
 <a href = "https://wallet.bitshares.org/#/account/fbn3113104450" > fbn3113104450 </a>
-
-<a href = "https://binance.mintscan.io/account/bnb1mhdym8tmmpkn75su3luf8cs5q2f7cq5cahe6j2" >bnb1mhdym8tmmpkn75su3luf8cs5q2f7cq5cahe6j2</a>
 # Escrow
-fbn3113104450 is the escrow wallet for bitshares users. While GCVJ5KPAIGYD6LLMKE5V2XTZW4WIBKXBYMN2GGZGGMSAKFDHIPQNLASY is the escrow for external wallets.
-go to <a href = " https://bitsharescrude.i.ng"> BITSHARESCRUDE </a> for more details.
+fbn3113104450 is the escrow wallet for bitshares users go to <a href = " https://bitsharescrude.i.ng"> BITSHARESCRUDE </a> for more details.
