@@ -27,7 +27,7 @@ crude-ngn, fbn3113104450
 # HOW IT WORKS
 As a pegged UIA Asset, CRUDE.NGN has a reserve wallet, for escrow/trading services, which is tied primarily to the bitCNY and other stablecoins in the reserve account on the bitshares DEX.
 The Liquidity for trading is provided by the stablecoins, while the reserve account control is multisiged to allow for more decentrality.
-# Reserve Accounts
+# Reserve Account
 <a href = "https://wallet.bitshares.org/#/account/crude-ngn" > crude-ngn </a>
 # Escrow
 fbn3113104450 is the escrow wallet for bitshares users go to <a href = " https://bitsharescrude.i.ng"> BITSHARESCRUDE </a> for more details.
