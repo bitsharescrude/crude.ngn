@@ -20,14 +20,14 @@ HTLC, Private memo and merchant
 # Asset class
 UIA Utility token, Semi-Custodial, Hybrid cryptocurrency
 # Account Authority
-vnc7, fbn3113104450
+crude-ngn, fbn3113104450
 # Market Restrictions
 (N/B other tradeable assets may be owned by fraudsters trade with caution)
 
 # HOW IT WORKS
-As a pegged UIA Asset, CRUDE.NGN has a reserve wallet, for escrow/trading services, which is tied primarily to bitCNY and other stablecoins on the bitshares DEX.
+As a pegged UIA Asset, CRUDE.NGN has a reserve wallet, for escrow/trading services, which is tied primarily to the bitCNY and other stablecoins in the reserve account on the bitshares DEX.
 The Liquidity for trading is provided by the stablecoins, while the reserve account control is multisiged to allow for more decentrality.
-# Escrow/Reserve Accounts
-<a href = "https://wallet.bitshares.org/#/account/fbn3113104450" > fbn3113104450 </a>
+# Reserve Accounts
+<a href = "https://wallet.bitshares.org/#/account/crude-ngn" > crude-ngn </a>
 # Escrow
 fbn3113104450 is the escrow wallet for bitshares users go to <a href = " https://bitsharescrude.i.ng"> BITSHARESCRUDE </a> for more details.
